@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\blogengine",
+    "\\app\\blogengine\\blog",
+    "\\app\\blogengine\\blogengine",
+    "\\app\\blogengine\\blog\\templates\\blog",
+    "\\app\\blogengine\\templates"
+  ],
+  "SelectedNode": "\\app\\blogengine\\blogengine\\settings.py",
+  "PreviewInSolutionExplorer": false
+}
